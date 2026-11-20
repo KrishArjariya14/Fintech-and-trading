@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Trade — Fintech & Trading Platform",
+  "description": "Real-time multi-asset trading platform with WebSocket market streaming, order matching engine, multi-currency wallet, KYC/AML compliance, and immutable audit ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
